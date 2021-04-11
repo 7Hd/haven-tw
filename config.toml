@@ -1,4 +1,4 @@
-baseURL = "./"
+baseURL = "/"
 languageCode = "zh-tw"
 title = "HAVEN"
 theme = 'book'
